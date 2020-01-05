@@ -1,9 +1,9 @@
 package stockmgtpackage;
 
+//import statements for relevant classes 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import javax.swing.JOptionPane;
-
 
 public class MySqlConnection {
 
